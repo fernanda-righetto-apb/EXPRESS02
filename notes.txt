@@ -1,0 +1,9 @@
+Server
+instruções serem executadas antes de mandar response pra alguém - midle ware --> Request - server.use(function) // Response - server.get ()
+
+Framework: Express.js - trazer pra dentro do projeto - protocolo de internet 
+
+1  - instalar dependÊncias do node e outras que desejo
+2 - instalar módulo express no terminal - npm i express  - instalado dentro do terminal
+
+suba e desça servidor de forma automática -> --watch
